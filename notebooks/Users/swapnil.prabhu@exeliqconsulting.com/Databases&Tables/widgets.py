@@ -1,4 +1,8 @@
 # Databricks notebook source
+print("Welcome to widgets tutorials")
+
+# COMMAND ----------
+
 dbutils.fs.head("/FileStore/tables/input.csv")
 
 # COMMAND ----------
