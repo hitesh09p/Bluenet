@@ -1,5 +1,6 @@
 # Databricks notebook source
 print("Welcome to widgets tutorials")
+print("hi hello ")
 
 # COMMAND ----------
 
